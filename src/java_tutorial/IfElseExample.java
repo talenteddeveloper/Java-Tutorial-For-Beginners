@@ -4,6 +4,7 @@ public class IfElseExample {
 
 	public static void main(String[] args) {
 		int number = 1;
+		//try to play with && || !=
 		if( number > 0 || number>2) {
 			System.out.println("Number is +ve");
 		}else {
